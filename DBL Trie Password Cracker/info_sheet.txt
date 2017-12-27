@@ -1,0 +1,89 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+
+You must submit an information sheet with every assignment.  
+Also be sure 
+to submit all materials following the procedures described on the
+ submission procedures page.
+
+
+Name: Sanketh Kolli 
+
+
+
+Lecture section:  
+
+Monday Wednesday at 3:00
+
+
+Recitation day and time:  
+
+Friday Noon
+
+Assignment #:  
+
+Project 1
+
+Program due date:  
+
+2/10/17
+
+Handed in date:  
+
+2/10/17
+
+Source code file name(s):
+
+
+
+
+
+
+
+pw_check.java
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+
+all_passwords.txt(created by program)
+dictionary.txt(given by instructor)
+ST_Approach(describes methods)
+
+Does your program run without error?:
+
+
+No
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+Program runs out of memory. If you increase heap size it works fine
+
+. I increased heap to 4gig and it worked
+
+
+
+Check function works incorrectly
+
+
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
+
+The check function takes a long time to initialize and ask for user input. You also need to make sure to increase heap size or it'll throw an error.

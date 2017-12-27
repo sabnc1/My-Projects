@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=aString
+comment0.target=HuffmanTree(java.lang.String)
+comment1.params=
+comment1.target=BinaryNodeInterface\ getRootNode()
+comment2.params=
+comment2.target=void\ generateHuffmanTree()
+comment3.params=
+comment3.target=void\ generateFrequencyList()
+numComments=4

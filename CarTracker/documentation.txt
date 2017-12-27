@@ -1,0 +1,8 @@
+For project 3 there are several design decisions to talk about.
+The first thing I did was to use the code provided in the textbook for my MinPriorityQueue
+This saved me a lot of time in implementation for a slightly less efficient heap implementation
+The second thing I did was to create the DoublePQ class. By creating two separate priority queues I made it easier on myself
+instead of messing with the comparable interface. We also create a list of all cars added to index the queues.
+This gives us O(3n) space complexity. The CarSortType object makes separates the two comparable attributes of the Car class.
+This gives us two objects to put one into each of the Queues. Retrieval is O(1) for absolute min and O(logn) for specific make and model
+The carTracker class implements most of the functionality in the DoublePQ class. 
