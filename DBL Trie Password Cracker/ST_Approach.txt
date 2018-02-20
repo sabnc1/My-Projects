@@ -1,2 +1,0 @@
-To create the data structure for the check method I created a new trie to parse through all the valid passwords. When reaching the end of a password, the trie
-stores info that it's the end of the word and the time taken to guess the word through the all_passwords.txt file. This allows easy comparisons for prefixes by following the structure until the end of the password has been reached and a simple matter of getting the time also stored in the trie. 

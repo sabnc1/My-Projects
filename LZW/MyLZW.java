@@ -1,6 +1,8 @@
 /*************************************************************************
  *  Compilation:  javac LZW.java
- *  Execution:    java LZW - < input.txt   (compress)
+ *  Execution:    java LZW - r < input.txt   (compress reset mode)
+ *  Execution:    java LZW - m < input.txt   (compress monitor mode)
+ *  Execution:    java LZW - n < input.txt   (compress do nothing mode)
  *  Execution:    java LZW + < input.txt   (expand)
  *  Dependencies: BinaryIn.java BinaryOut.java
  *

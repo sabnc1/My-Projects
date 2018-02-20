@@ -1,0 +1,1 @@
+I used a DLB trie to create a dictionary for the user history. I used this as the format of the user history is very similar to the DLB Trie for the dictionary and required very little modifications to work correctly. This saved time in engineering effort while also being a fairly efficient way to sort the data.

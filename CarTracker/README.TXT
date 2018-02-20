@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Car Tracker
+PURPOSE OF PROJECT: To implement a simple car tracker program to show understanding of priority queues.
+VERSION or DATE: 1.0
+HOW TO START THIS PROJECT: To compile: javac carTracker.java
+To Run: java carTracker
+AUTHORS: Sanketh Kolli
+USER INSTRUCTIONS: Compile and run the program. Once started follow the options printed on the screen to add cars or search for specific car.

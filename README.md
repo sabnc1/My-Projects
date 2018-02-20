@@ -1,2 +1,2 @@
 " My-Projects"
-A group of School Projects that I did well on
+A group of School Projects that I am most proud of during my time in college.
